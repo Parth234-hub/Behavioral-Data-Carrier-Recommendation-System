@@ -1,2 +1,2 @@
-# Behavioral-Data-Carrier-Recommendation-System
-Group Project of BCA team
+# career_recommandation_system
+college_project
